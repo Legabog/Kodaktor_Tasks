@@ -14,5 +14,5 @@
     * [Чат на Node.js + Socket.io + Vue.js](https://github.com/Legabog/Chat-with-using-Vue.js-Node.js-Socket.io)
 
 + [Bots](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
-  * [Bot_DialogFlow](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
-   * [Node.js_Bot](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+  * [Bot_DialogFlow](https://github.com/Legabog/IntegratedBotFromDialogFlowBot)
+   * [Node.js_Bot](https://github.com/Legabog/Node.js-Bot)
