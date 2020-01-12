@@ -7,7 +7,14 @@
 >
 >* [Мини-хакатон-челлендж](https://github.com/Legabog/Kodaktor_Tasks/tree/mini-hakaton-challenge)
 >
->* [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+>* [Docker](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
 >
->* [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+>* Веб-сокеты
+> * Первая часть
+> * Первая часть
+> * [Чат на Node.js + Socket.io + Vue.js]()
+>
+>* [Bots](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+> 1. [Bot_DialogFlow](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+> 2. [Node.js_Bot](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
 
