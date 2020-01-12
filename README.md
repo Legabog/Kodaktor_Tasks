@@ -1,13 +1,17 @@
-# Kodaktor_Tasks
-![image](https://user-images.githubusercontent.com/44378669/72217498-aecb6b00-353f-11ea-8834-3fdd638783ad.png)
----------------------------------
-## Выполненные задания с kadaktor.ru:
----------------------------------
->* [Telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
->
->* [Мини-хакатон-челлендж](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
->
->* [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
->
->* [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
-
+# Мини-хакатон-челлендж
+-----------------------
+### Выполнение задания:
+-----------------------
+>*Первая часть задания*
+>>Необходимо скачать по адресам:
+>>
+>>kodaktor.ru/mysteries/key
+>>kodaktor.ru/mysteries/secret
+>>
+>>соответственно публичный RSA-ключ и зашифрованные данные.
+>>
+>>С помощью этого ключа и метода publicDecrypt встроенного модуля crypto
+>>расшифруйте данные. Текст сценария должен начинаться с комментария (Первыми двумя символами сценария должны быть /* (прямой слэш и >>звёздочка)). В комментарии укажите свои ФИО.
+>>
+>>Перейдите по полученному после расшифровки адресу для получения оставшейся части задания.
+>*Вторая часть задания часть задания*
