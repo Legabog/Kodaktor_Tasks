@@ -3,4 +3,5 @@
 ---------------------------------
 Выполненные задания с kadaktor.ru:
 ---------------------------------
-[bot](https://github.com/Legabog/Node.js-Bot)
+[telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+
