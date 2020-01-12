@@ -3,9 +3,9 @@
 ---------------------------------
 ## Выполненные задания с kadaktor.ru:
 ---------------------------------
->* [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+>* [Telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
 >
->* [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+>* [Мини-хакатон-челлендж](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
 >
 >* [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
 >
