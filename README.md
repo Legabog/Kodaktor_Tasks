@@ -26,7 +26,11 @@
 >
 >Добавить аутентификацию
 # Выполнение:
+### 1)
 ![image](https://user-images.githubusercontent.com/44378669/72218533-b5acaa80-354c-11ea-8f17-32537960bf48.png)
+----------------------
+### 2)
+![image](https://user-images.githubusercontent.com/44378669/72218567-ff959080-354c-11ea-81cd-6849061dba1f.png)
 ----------------------
 
 
