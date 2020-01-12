@@ -3,6 +3,6 @@
 ---------------------------------
 Выполненные задания с kadaktor.ru:
 ---------------------------------
-><li>[telnet]:https://github.com/Legabog/Kodaktor_Tasks/tree/telnet
-><li>[telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+><li> [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+><li> [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
 
