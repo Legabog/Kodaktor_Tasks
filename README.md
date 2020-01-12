@@ -9,10 +9,10 @@
 >
 >* [Docker](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
 >
->*ul [Веб-сокеты](https://github.com/Legabog/Kodaktor_Tasks/tree/ws)
->  *ul [Первая часть](https://github.com/Legabog/Kodaktor_Tasks/tree/ws1)
->  *ul [Вторая часть](https://github.com/Legabog/Kodaktor_Tasks/tree/ws2)
->  *ul [Чат на Node.js + Socket.io + Vue.js](https://github.com/Legabog/Chat-with-using-Vue.js-Node.js-Socket.io)
+>* [Веб-сокеты](https://github.com/Legabog/Kodaktor_Tasks/tree/ws)
+> * [Первая часть](https://github.com/Legabog/Kodaktor_Tasks/tree/ws1)
+>  * [Вторая часть](https://github.com/Legabog/Kodaktor_Tasks/tree/ws2)
+>   * [Чат на Node.js + Socket.io + Vue.js](https://github.com/Legabog/Chat-with-using-Vue.js-Node.js-Socket.io)
 >
 >* [Bots](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
 > 1. [Bot_DialogFlow](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
