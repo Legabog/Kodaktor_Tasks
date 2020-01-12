@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Chat Form</title>
+   <meta charset="utf-8"><style>* {font-family:sans-serif} span {position:fixed; right:20px; top:10px;border:double; padding: 15px; border-radius:20px;}</style>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+
+ </head>
+ <body>
+    <h1>Содержимое чата:</h1>
+    <div id="messages"></div>
+    <span><h2>Введите реплику:</h2>
+      <form name="publish">
+        <input type="text" name="message" maxlength="300"/>
+        <input type="submit" value="Отправить сообщение"/>
+      </form>
+      <!-- <h2>Загрузить картинку</h2>
+      <form class="image-form" id="image-form" name="image_form" action="" method="POST" enctype="multipart/form-data">
+        <input type="file" name="uploadfile" accept="image/jpeg,image/png"/>
+        <button onclick="addImage();event.preventDefault();">Загрузить картинку</button>
+      </form>
+      <image></image> -->
+    
+    <script>
+      //---------Инициализация WebSocket
+      const URL = 'ws://3333.kodaktor.ru';
+      let socket = new WebSocket(URL);
+    
+      //---------Приветствие 
+      socket.onopen = () => {
+        let promise = new Promise((resolve, reject) => {
+          setTimeout(() => {
+            alert('Соединение установлено, подождите пару секунд...');
+            resolve();
+          }, 500);
+        }).then(() => {
+          alert('Добро пожаловать в чат!!!');
+        }).then(() => {
+          socket.send('Привет всем!!! Меня зовут Олег!!!');
+        })
+      };
+ 
+      //---------Отправка сообщений
+      document.forms.publish.onsubmit = function() {
+        let outgoingMessage = this.message.value;
+        socket.send(outgoingMessage);
+        return false;
+       };
+
+      //----------Прослушка входящих сообщений
+      socket.onmessage = function(event) {
+        let incomingMessage = event.data;
+        showMessage(incomingMessage);
+      };  
+      //
+      
+      //----------При закрытии
+      socket.onclose = event => alert('Пока!!!');
+
+      //----------Отображение в dive id = messages
+      function showMessage(message) {
+        let messageElem = document.createElement('div');
+        messageElem.textContent = message;
+        document.getElementById('messages').append(messageElem);
+      }
+      // //---------Отсылка выбранных изображений
+      // function imageShow() {
+
+      // }
+    
+  </script>
+  
+ </body>
+</html>
