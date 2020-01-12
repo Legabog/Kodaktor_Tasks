@@ -3,7 +3,11 @@
 ---------------------------------
 ## Выполненные задания с kadaktor.ru:
 ---------------------------------
-> * [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+>* [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
 >
-> [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+>* [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+>
+>* [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+>
+>* [telnet](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
 
