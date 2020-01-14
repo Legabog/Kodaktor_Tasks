@@ -16,4 +16,4 @@
 ---------------------------------
 7.
 ---------------------------------
-[Ссылка на zip архив собранного scorm пакета]()
+[Ссылка на zip архив собранного scorm пакета](https://github.com/Legabog/Kodaktor_Tasks/blob/courselab3/MyFirstCourse_v3.0.zip)
