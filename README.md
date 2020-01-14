@@ -14,4 +14,14 @@
 2. Создайте аккаунт учителя и аккаунт студента. Убедитесь, что в журнале оценок у студента при последовательном прохождении курса отображаются отметки. 
 3. Предоставьте доступ к исходным файлам пакета и предоставьте логины-пароли преподавателю.
 
-[Ссылка на moodlecloud](https://legabog.moodlecloud.com/course/view.php?id=3#section-0)
+## [Ссылка на moodlecloud](https://legabog.moodlecloud.com/course/view.php?id=3#section-0)
+## Загруженный scorm пакет
+![image](https://user-images.githubusercontent.com/44378669/72342757-4ebefb00-36de-11ea-938a-9ac26c2f9d9d.png)
+## Участники курса
+![image](https://user-images.githubusercontent.com/44378669/72342858-8fb70f80-36de-11ea-9e83-fa01311cd2a9.png)
+## Баллы за прохождение курса
+![image](https://user-images.githubusercontent.com/44378669/72342917-b117fb80-36de-11ea-802f-215265d9589e.png)
+---------------------------------------
+* `login: lega`
+* `password: 13141599`
+
