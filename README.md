@@ -6,7 +6,7 @@
  
 * [Мини-хакатон-челлендж](https://github.com/Legabog/Kodaktor_Tasks/tree/mini-hakaton-challenge)
 
-* [Docker](https://github.com/Legabog/Kodaktor_Tasks/tree/telnet)
+* [Docker](https://github.com/Legabog/Kodaktor_Tasks/tree/docker)
 
 + [Веб-сокеты](https://github.com/Legabog/Kodaktor_Tasks/tree/ws)
   * [Первая часть](https://github.com/Legabog/Kodaktor_Tasks/tree/ws1)
